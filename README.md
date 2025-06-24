@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FelipeJuliano24
+- 👋 Welcome to my GitHub! Here you will find projects in the areas of embedded systems, satellite attitude control (AOCS), Hardware-in-the-Loop (HIL) simulations, and development for aerospace applications. I hold a Master’s degree in Electrical Engineering from the Federal University of Santa Catarina (UFSC), where I am currently pursuing a Ph.D. in the same field.
 
 <div>
 <a href="https://github.com/FelipeJuliano24">
